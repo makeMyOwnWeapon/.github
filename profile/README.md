@@ -92,5 +92,5 @@
 <img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/2f4bd947-45e4-460d-815d-a98290c3f1ba">
 
 ## 팀원소개
-[김동욱]([http://zeldahagoshipda.com](https://github.com/UkdongKim))
+[김동욱](https://github.com/UkdongKim)
 
