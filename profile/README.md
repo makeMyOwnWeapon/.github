@@ -56,6 +56,11 @@
 - **RESTful API**: 클라이언트와 서버 간 통신을 위한 RESTful API를 설계하였습니다.
 - **데이터베이스 설계**: 데이터베이스는 관계형/비관계형 데이터베이스를 사용하여 최적의 성능을 발휘하도록 설계되었습니다.
 
+## ERD
+<img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/dd390475-ce33-4a66-bc3f-dcdfe3b8552f">
+
+
+
 ## 도전 과제 및 해결 방법
 
 ### 도전 과제 1: 크롬 익스텐션 보안 문제
