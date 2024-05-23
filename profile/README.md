@@ -89,5 +89,5 @@
 - 사용자는 최대 2명에서 100명까지 수용 가능해졌습니다.(50배)
 
 ## 포스터
-![image](https://github.com/makeMyOwnWeapon/.github/assets/144863392/2f4bd947-45e4-460d-815d-a98290c3f1ba)
+<img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/2f4bd947-45e4-460d-815d-a98290c3f1ba">
 
