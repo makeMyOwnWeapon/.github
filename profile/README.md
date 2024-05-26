@@ -95,6 +95,9 @@
 - 이로 인해 응답시간은 1120ms에서 52ms로(약 4% 수준) 빨라졌습니다.
 - 사용자는 최대 2명에서 100명까지 수용 가능해졌습니다.(50배)
 
+## 시연영상
+https://www.youtube.com/watch?v=SbxyFPcCUP4&feature=youtu.be
+
 ## 포스터
 <img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/2f4bd947-45e4-460d-815d-a98290c3f1ba">
 
