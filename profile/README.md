@@ -25,7 +25,7 @@
 ## 주요 기능
 
 - **문제 출제**: AI를 활용해 문제를 제공하여 강의 집중력을 향상시킵니다.
-- ![Animation](https://github.com/makeMyOwnWeapon/.github/assets/144863392/6bb4fb4d-da40-4ebe-b496-0023735df1e8)
+- ![Animation]<img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/6bb4fb4d-da40-4ebe-b496-0023735df1e8">
 - **졸음 및 자리이탈 감지**: 사용자의 졸음 및 자리이탈을 감지하여 잠을 깨우고, 자동으로 강의를 멈춥니다.
 - - ![Animation1](https://github.com/makeMyOwnWeapon/.github/assets/144863392/49e4bf39-b766-4cb1-9526-ba2bad0a8101)
 - **레포트 제공**: 학습시간 통계, 문제 다시보기, 추천 복습 키워드 제공 등으로 사용자의 학습을 돕습니다.
