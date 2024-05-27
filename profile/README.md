@@ -24,9 +24,12 @@
 
 ## 주요 기능
 
-- **문제 출제**: AI를 활용해 문제를 제공하여 강의 집중력을 향상시킵니다.![Animation](https://github.com/makeMyOwnWeapon/.github/assets/144863392/6bb4fb4d-da40-4ebe-b496-0023735df1e8)
-- **졸음 및 자리이탈 감지**: 사용자의 졸음 및 자리이탈을 감지하여 잠을 깨우고, 자동으로 강의를 멈춥니다.- ![Animation1](https://github.com/makeMyOwnWeapon/.github/assets/144863392/49e4bf39-b766-4cb1-9526-ba2bad0a8101)
-- **레포트 제공**: 학습시간 통계, 문제 다시보기, 추천 복습 키워드 제공 등으로 사용자의 학습을 돕습니다.![Animation2](https://github.com/makeMyOwnWeapon/.github/assets/144863392/ad04eb15-7091-4c65-be7a-6302331932d9)
+- **문제 출제**: AI를 활용해 문제를 제공하여 강의 집중력을 향상시킵니다.
+- ![Animation](https://github.com/makeMyOwnWeapon/.github/assets/144863392/6bb4fb4d-da40-4ebe-b496-0023735df1e8)
+- **졸음 및 자리이탈 감지**: 사용자의 졸음 및 자리이탈을 감지하여 잠을 깨우고, 자동으로 강의를 멈춥니다.
+- - ![Animation1](https://github.com/makeMyOwnWeapon/.github/assets/144863392/49e4bf39-b766-4cb1-9526-ba2bad0a8101)
+- **레포트 제공**: 학습시간 통계, 문제 다시보기, 추천 복습 키워드 제공 등으로 사용자의 학습을 돕습니다.
+- ![Animation2](https://github.com/makeMyOwnWeapon/.github/assets/144863392/ad04eb15-7091-4c65-be7a-6302331932d9)
 - 더 많은 기능들은 [여기](https://www.learn-on-air.site/introduce)에서 확인할 수 있습니다.
 
 ## 기술 스택
