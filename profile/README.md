@@ -30,7 +30,7 @@
   <img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/49e4bf39-b766-4cb1-9526-ba2bad0a8101">
 - **레포트 제공**: 학습시간 통계, 문제 다시보기, 추천 복습 키워드 제공 등으로 사용자의 학습을 돕습니다.
   <img width="689" src="https://github.com/makeMyOwnWeapon/.github/assets/144863392/ad04eb15-7091-4c65-be7a-6302331932d9">
-- 더 많은 기능들은 [여기](https://www.learn-on-air.site/introduce)에서 확인할 수 있습니다.
+- 더 많은 기능들은 [여기](https://www.learn-on-air.site/)에서 확인할 수 있습니다.
 
 ## 기술 스택
 
